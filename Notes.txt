@@ -1,0 +1,11 @@
+data-*  => attribute is used to store custom data private to the page or application.(refered form W3school.com)
+
+<kbd>tage 
+The <kbd> tag is used to define keyboard input. The content inside is displayed in the browser's default monospace font.
+
+.play() Method
+
+.currentTime Sets or returns the current playback position in the audio/video (in seconds)
+
+
+transitionend =>similarly like onClick event
